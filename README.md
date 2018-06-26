@@ -1,8 +1,8 @@
 # SML
 SML Handbook
 
-SeemoreLabs </n
-Vállalatirányítási szoftver </n
+SeemoreLabs
+Vállalatirányítási szoftver
 Kézikönyv
 
 Bevezetés
