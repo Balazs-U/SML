@@ -45,11 +45,17 @@ c, Felhasználók és jogosultsági köreik
 
 Az SML a felhasználók és jogaik kezeléséhez hozzáférés ellenőrző listát - ACL (Access Control List) - használ, mely a felhasználócsoportok, engedélyek és objektumok közti kapcsolatot felügyeli. Ez azt jelenti, hogy minden egyes felhasználót valamely csoporthoz kell hozzárendelni, mely az annak megfelelő hozzáférést biztosítja a különböző objektumokhoz.
 A rendszer által használt csoportok a következők:
+
 -Gépkezelő
+
 -Raktáros
+
 -Irodista
+
 -Termelésirányító
+
 -Üzletkötő
+
 -Adminisztrátor
 
 1. Gépkezelő: a legszűkebb jogkörrel rendelkező felhasználó. Az egyetlen dolga, hogy rögzítse a ráosztott munka részleteit és csatolja/változtassa a gyártáshoz szükséges - pl.: rákel, klisé, recept stb. - elemeket.
