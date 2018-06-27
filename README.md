@@ -63,3 +63,9 @@ d, Értesítések
 
 A program értesítéseket küld számunkra különböző műveletek - be/kijelentkezés, objektum létrehozás/szerkesztés/törlés - végrehajtásakor, ide értve a jogosultsági körünkön kívül eső programrészek megnyitására tett próbálkozást is. Példaként: a bejelentkezést követően a “Sikeres bejelentkezés” című értesítést kapjuk a rendszertől, mely a felület jobb felső sarkában jelenik meg zöld színnel és nagyjából 7 másodpercig marad látható. Ha az értesítésre visszük az egeret/ujjunkat annak megjelenésekor, akkor az egészen addig a képernyőn marad, míg le nem vesszük róla az egeret/ujjunkat. Manuálisan is eltűntethetők az értesítés jobb szélén található ‘X’ megnyomásával, illetve az értesítésre való kattintással. Kivételként meg kell említenünk a “Hozzáférés megtagadva” és “A keresett elem nem található” című értesítéseket, melyek piros színnel és méretes felkiáltójellel figyelmeztetnek jogkörön kívüli vagy sikertelen művelet végrehajtáskor.
 
+e, Felület tartalma
+
+Ez az alfejezet taglalja a programfelületet alkotó legfontosabb elemeket: a fejléc, a menürendszer, és a táblázat formátumú, kilistázott objektumok tartalmát, illetve felépítését.
+
+↳ Fejléc:
+
